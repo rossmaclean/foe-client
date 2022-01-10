@@ -1,2 +1,2 @@
-web/node_modules
-vendor
+/vendor/
+/web/node_modules/
